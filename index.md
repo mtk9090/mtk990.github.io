@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## sobre
 ### menu
 
+def soma(a,b):
+    return a + b
+
+print(soma(30,30))
+
+
 - Bulleted
 - List
 
